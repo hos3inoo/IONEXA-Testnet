@@ -1,0 +1,18 @@
+# Node.js / Hardhat / Truffle (if using JS for smart contracts)
+node_modules/
+cache/
+artifacts/
+coverage/
+*.log
+
+# Python (if using Brownie or similar)
+__pycache__/
+*.pyc
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# PDF and personal files (optional, only if you don't want all PDFs in repo)
+*.pdf
